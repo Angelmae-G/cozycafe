@@ -12,7 +12,7 @@ can unwind, connect, and savor the simple pleasures of a delightful cup of coffe
 - Outdoor Seating:comfortable outdoor seating area with tables, chairs, umbrellas, and even blankets or heaters for colder weather.
 - Cozy Lighting:warm lighting to create a cozy atmosphere. 
 
-###n Screen Captures
+## Screen Captures
 - ![img](https://i.pinimg.com/564x/05/b9/04/05b904ab193c53e9e001703ac0e8e423.jpg)
 - A day at the cozy cafe view.
 
@@ -25,7 +25,7 @@ can unwind, connect, and savor the simple pleasures of a delightful cup of coffe
 - ![img](https://i.pinimg.com/564x/a7/35/16/a73516175071afb3b0ef7627af7d6f6d.jpg)
 - A crisp pastry shell houses creamy custard before baking until golden for this beloved Portuguese egg tart recipe from George Mendes
   
-#### About the Authors
+##### About the Authors
 
 <img src="https://avatars.githubusercontent.com/u/132076876?v=4" alt="Karla Eryka P. Cabuhat" width="150" style="border-radius: 50%">
 
