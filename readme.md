@@ -4,12 +4,12 @@ With a focus on creating a welcoming ambiance, the Cozy Cafe Project seeks to be
 can unwind, connect, and savor the simple pleasures of a delightful cup of coffee in a charming setting.
 
 ##Features   
--Warm and Inviting Decor: A plush chairs or sofas, soft lighting, and cozy decorations like artwork, plants, and rugs to create a welcoming ambiance.
--Comfortable Seating:Offer a variety of seating options including armchairs, couches, window seats, and communal tables to accommodate different preferences and group sizes.
--Homey Atmosphere: With sense of home such as bookshelves with books for customers to read, board games, and faux fireplace for added coziness.
--Quality Food and Drinks: Serve high-quality coffee, tea, pastries, sandwiches, salads, and other light fare.
--Outdoor Seating:comfortable outdoor seating area with tables, chairs, umbrellas, and even blankets or heaters for colder weather.
--Cozy Lighting:warm lighting to create a cozy atmosphere. 
+- Warm and Inviting Decor: A plush chairs or sofas, soft lighting, and cozy decorations like artwork, plants, and rugs to create a welcoming ambiance.
+- Comfortable Seating:Offer a variety of seating options including armchairs, couches, window seats, and communal tables to accommodate different preferences and group sizes.
+- Homey Atmosphere: With sense of home such as bookshelves with books for customers to read, board games, and faux fireplace for added coziness.
+- Quality Food and Drinks: Serve high-quality coffee, tea, pastries, sandwiches, salads, and other light fare.
+- Outdoor Seating:comfortable outdoor seating area with tables, chairs, umbrellas, and even blankets or heaters for colder weather.
+- Cozy Lighting:warm lighting to create a cozy atmosphere. 
 
 ###Screen Captures
 ![img](https://i.pinimg.com/564x/05/b9/04/05b904ab193c53e9e001703ac0e8e423.jpg)
@@ -28,8 +28,9 @@ A crisp pastry shell houses creamy custard before baking until golden for this b
 
 <img src="https://avatars.githubusercontent.com/u/132076876?v=4" alt="Karla Eryka P. Cabuhat" width="150" style="border-radius: 50%">
 
-**Name:** Karla Eryka Cabuhat
-**Email:** 201980068@psu.palawan.edu.ph
+- **Name:** Karla Eryka Cabuhat
+
+- **Email:** 201980068@psu.palawan.edu.ph
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
