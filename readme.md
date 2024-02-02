@@ -14,16 +14,16 @@ can unwind, connect, and savor the simple pleasures of a delightful cup of coffe
 
 ###n Screen Captures
 - ![img](https://i.pinimg.com/564x/05/b9/04/05b904ab193c53e9e001703ac0e8e423.jpg)
-A day at the cozy cafe view.
+- A day at the cozy cafe view.
 
 - ![img](https://i.pinimg.com/564x/5e/02/70/5e02708094410933dd5998d8e1310abe.jpg)
-A cozy lightning at coffee shop at night time.
+- A cozy lightning at coffee shop at night time.
 
 - ![img](https://i.pinimg.com/564x/21/ea/a1/21eaa1b9c6573c3147d4f721cab61a2c.jpg)
-A warm, frothy reprieve from the holidays with essences of cloves, nutmeg, cinnamon, and a drizzle of honey.
+- A warm, frothy reprieve from the holidays with essences of cloves, nutmeg, cinnamon, and a drizzle of honey.
 
 - ![img](https://i.pinimg.com/564x/a7/35/16/a73516175071afb3b0ef7627af7d6f6d.jpg)
-A crisp pastry shell houses creamy custard before baking until golden for this beloved Portuguese egg tart recipe from George Mendes
+- A crisp pastry shell houses creamy custard before baking until golden for this beloved Portuguese egg tart recipe from George Mendes
   
 #### About the Authors
 
